@@ -5,15 +5,13 @@
 <h2>👤 About me</h2>
 
 <p>
-I am a beginner web developer. My journey started with School 21 by Sber, where I completed an intensive but did not get into the main program.
-After that, I studied programming for several months, tried different directions, learned C, Python, explored data science,
-but eventually decided to focus on web development.
+Welcome everyone to my GitHub. A little about me: I'm a beginner programmer whose journey began at the age of 12 or 13, when I first learned about creating websites on CMS Wordpress. I then studied on my own for about a year or two, and then I started taking on freelance orders. Currently, I'm a beginner frontend programmer with the goal of becoming a strong cybersecurity specialist.
 </p>
 
 <ul>
-  <li>📚 Currently studying web development</li>
-  <li>🚀 Improving frontend and backend skills</li>
-  <li>🎯 Goal: become a professional developer and find a job</li>
+  <li>📚 Currently studying pyton at Yandex</li>
+  <li>🚀 Improving backend skills and creating own porject</li>
+  <li>🎯 Goal: become a cybersecurity specialist. </li>
 </ul>
 
 <hr>
