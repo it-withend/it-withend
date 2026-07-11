@@ -9,8 +9,8 @@ Welcome everyone to my GitHub. A little about me: I'm a beginner programmer whos
 </p>
 
 <ul>
-  <li>📚 Currently studying pyton at Yandex</li>
-  <li>🚀 Improving backend skills and creating own porject</li>
+  <li>📚 Currently studying python at Yandex</li>
+  <li>🚀 Improving backend skills and creating own project</li>
   <li>🎯 Goal: become a cybersecurity specialist. </li>
 </ul>
 
